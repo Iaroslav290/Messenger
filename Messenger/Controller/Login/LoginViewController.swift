@@ -17,6 +17,7 @@ protocol LoginViewControllerDelegate {
 
 //let closeBar = UIButton()
 
+
 class LoginViewController: UIViewController {
     
     var collectionView: UICollectionView!
