@@ -36,8 +36,6 @@ class RViewController: UIViewController {
         tapGest = UITapGestureRecognizer(target: self, action: #selector(endEgiting))
         view.addGestureRecognizer(tapGest)
         
-        
-        
     }
     
     func setSignUp() {
